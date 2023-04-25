@@ -1,0 +1,8 @@
+Bank project
+
+Customer name: Nick, Amy, David, Peggy, Alana 
+Customer ID: 10, 20, 30, 40, 50 
+ Account Type: Savings 
+Transaction Type: Deposit 
+Bank branch: Schaumburg 
+ 
